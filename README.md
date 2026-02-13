@@ -42,8 +42,6 @@ A fast, lightweight disk usage analyzer for Linux with **real-time visualization
 - **Smart updates** - Throttled UI refreshes prevent performance degradation
 - **Optimized rendering** - Fast canvas-based chart drawing
 
-## 📸 Screenshots
-
 ### Main Interface
 ```
 ╔═══════════════════════════════════════════════════════════════╗
@@ -270,10 +268,8 @@ disk_analyzer_gui.py
 diskviz/
 ├── disk_analyzer_gui.py    # Main application
 ├── launch_gui.sh            # Launcher script
-├── install_gui.sh           # Installation helper
 ├── README.md                # This file
-├── LICENSE                  # MIT license
-└── screenshots/             # Application screenshots
+└── LICENSE                  # MIT license
 ```
 
 ### Running from Source
