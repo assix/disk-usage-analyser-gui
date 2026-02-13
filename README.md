@@ -331,14 +331,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📈 Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/diskviz?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/diskviz?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/diskviz?style=social)
+![GitHub stars](https://img.shields.io/github/stars/assix/disk-usage-analyser-gui?style=social)
+![GitHub forks](https://img.shields.io/github/forks/assix/disk-usage-analyser-gui?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/assix/disk-usage-analyser-gui?style=social)
 
 ---
 
 **Made with ❤️ for the Linux community**
 
 *Fast, visual, real-time disk usage analysis for power users*
-
-🚀 **[Download Latest Release](https://github.com/yourusername/diskviz/releases)** | 📖 **[Documentation](https://github.com/yourusername/diskviz/wiki)** | 💬 **[Community](https://github.com/yourusername/diskviz/discussions)**
